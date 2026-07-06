@@ -9,10 +9,10 @@ Python automation tool developed in 2025 to streamline dealership service remind
 - Simple (custom!) Tkinter GUI for daily use.
 
 ## Technologies Used
-- **Python** – Self-taught specifically to automate repetitive dealership service reminder tasks
+- **Python** – Self-taught specifically to automate repetitive dealership calls
 - **Tkinter** – Built a desktop GUI so the tool could be used without running code from the terminal
 - **xlwings** – for the execel workbook interaction
-- **Pyperclip** – Automatically copied personalized reminder messages to the clipboard for faster customer communication
+- **Pyperclip** – Automatically copied personalized reminder text messages we have to send to the clipboard for faster customer communication
 - **Playsound3** – Integrated prerecorded voicemail playback to streamline outbound calling
 - **Keyboard** – Added a global hotkey to play voicemail without interrupting the calling workflow(downward arrow key)
 - **Pillow (PIL)** – Loaded and displayed images within the application's interface
@@ -20,6 +20,6 @@ Python automation tool developed in 2025 to streamline dealership service remind
 - **Threading** – Kept the interface responsive while voicemail audio played and background hotkeys remained active
 
 ## Purpose
-While working one summer as a Service BDC Representative at Midwestern Automotive Group I completed approximately 200 outbound service reminder calls per day, many of which went to voicemail. To reduce repetitive work, I deicded I would teach myself Python and developed this automation tool after work. This repository uses fictional customer data and omits any proprietary company information.
+While working one summer as a Service BDC Representative at Midwestern Automotive Group I completed approximately 200 outbound service reminder calls per day, many of which went to voicemail. To reduce repetitive work, I decided I would teach myself Python and developed this automation tool after work. This repository uses fictional customer data and omits any proprietary company information.
 
 This repository uses fictional customer data but preserves the same spreadsheet structure and workflow as the original project.
