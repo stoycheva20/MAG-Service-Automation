@@ -22,4 +22,4 @@ Python automation tool developed in 2025 to streamline dealership service remind
 ## Purpose
 While working one summer as a Service BDC Representative at Midwestern Automotive Group I completed approximately 200 outbound service reminder calls per day, many of which went to voicemail. To reduce repetitive work, I deicded I would teach myself Python and developed this automation tool after work. This repository uses fictional customer data and omits any proprietary company information.
 
-The original dealership spreadsheet stored customer names in separate first, middle, and last name columns ("Name | Name | Name"). This repository uses fictional customer data but preserves the same spreadsheet structure and workflow as the original project.
+This repository uses fictional customer data but preserves the same spreadsheet structure and workflow as the original project.
